@@ -1,0 +1,39 @@
+1)sum of elements
+ 
+
+2)Celsius to farenheit
+
+
+ 
+
+3)print the numbers
+
+ 
+
+4)add matrics
+
+ 
+
+5)multiple blocks
+
+ 
+
+6)increment and decrement
+
+ 
+
+7)square root
+
+ 
+
+8)data members
+ 
+
+
+
+
+
+
+
+
+
